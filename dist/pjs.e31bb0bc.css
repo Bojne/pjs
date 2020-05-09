@@ -1,0 +1,66 @@
+* {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 130%; }
+
+h2 {
+  color: #f05a28;
+  margin-top: 3rem; }
+
+.layout {
+  padding: 0 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.time {
+  color: #f0b423;
+  padding: 0rem;
+  margin: 1rem 0;
+  display: flex;
+  justify-content: flex-start; }
+
+.bday {
+  color: #f05a28;
+  margin-top: 5rem; }
+
+.root {
+  padding: 2rem;
+  margin-top: 5rem; }
+
+.img-box {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+img {
+  width: 100%; }
+
+@media (max-width: 480px) {
+  html {
+    font-size: 100%; } }
+
+@media (min-width: 480px) {
+  html {
+    font-size: 100%; } }
+
+@media (min-width: 768px) {
+  html {
+    font-size: 100%; } }
+
+@media (min-width: 992px) {
+  html {
+    font-size: 100%; }
+  img {
+    width: 25rem; } }
+
+@media (min-width: 1200px) {
+  html {
+    font-size: 100%; }
+  img {
+    width: 25rem; } }
+
+
+/*# sourceMappingURL=/pjs.e31bb0bc.css.map */
