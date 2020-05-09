@@ -16,7 +16,7 @@ class App extends React.Component {
       return (
           <div class = 'layout'>
             <h2>Hello!</h2>
-            <iframe src="https://www.openprocessing.org/sketch/885111/embed/" width="400" height="300"></iframe>
+            <iframe src="https://www.openprocessing.org/sketch/885111/embed/" width="800" height="500"></iframe>
           </div>  
       )  
     }

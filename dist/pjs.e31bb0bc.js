@@ -28412,8 +28412,8 @@ function (_React$Component) {
         class: "layout"
       }, _react.default.createElement("h2", null, "Hello!"), _react.default.createElement("iframe", {
         src: "https://www.openprocessing.org/sketch/885111/embed/",
-        width: "400",
-        height: "300"
+        width: "800",
+        height: "500"
       }));
     }
   }]);
@@ -28450,7 +28450,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "54457" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "55115" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
